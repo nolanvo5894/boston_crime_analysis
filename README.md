@@ -1,3 +1,3 @@
 # boston_crime_analysis
-Boston and the surrounding area are divided into 12 police districts, and the dataset contain records of crimes at these districts. The data was collected from https://data.boston.gov <br>
+Boston and the surrounding area are divided into 12 police districts, and the dataset contain records of crimes at these districts. The data was collected from https://data.boston.gov. <br>
 This project explore and analyze trends in crime time series at these districts and attempted to predict the district with the highest number of crimes in the future using backtesting. I also pulled in demographics data for these districts to identify factors that correlate the most with the number of crimes. The analysis could be found inside the notebook *boston_crime_districts_analysis*.
